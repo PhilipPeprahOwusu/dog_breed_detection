@@ -55,6 +55,6 @@ below is a step by step detail of what I did
   </ol>
 
   <h1>Saving the Model</h1>
-  <p>The trained model can be saved using the command model.save("dog_breed.h5").</p>
+  <p>The trained model can be saved using the command <code>model.save("dog_breed.h5").</code></p>
 
   <p>Please note that this README file serves as an overview of the code and provides step-by-step details on what I did on the project</p>
